@@ -26,9 +26,12 @@ Se creó un repositorio Git dentro de Azure DevOps:
   - `feature/carrito`
 
 ### 🔗 Clonado del repositorio
-```bash
+ ```
+bash
 git clone https://dev.azure.com/<organizacion>/<proyecto>/_git/PruebaEj3
 cd PruebaEj3
+
+```
 
 ## ⚙️ Políticas de branch
 
