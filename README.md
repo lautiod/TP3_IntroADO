@@ -4,7 +4,7 @@ Este repositorio documenta el Trabajo Práctico 3 de la materia **ISW3**, donde 
 
 ---
 
-## 👥 Acceso al proyecto de Azure DevOps
+## Acceso al proyecto de Azure DevOps
 El proyecto fue creado dentro de la organización de Azure DevOps:
 
 - **Organización:** `SantiagoTricherri`
@@ -12,7 +12,7 @@ El proyecto fue creado dentro de la organización de Azure DevOps:
 - **Metodología elegida:** Scrum  
 - **Equipos configurados:** Backend y Frontend  
 
-👉 [Acceder al proyecto en Azure DevOps](AQUI_VA_EL_LINK_DEL_PROYECTO)
+[Acceder al proyecto en Azure DevOps] https://dev.azure.com/santiagotricherri/TP3_4%20Tricherri%20Y%20Ojeda
 
 ---
 
@@ -28,12 +28,12 @@ Se creó un repositorio Git dentro de Azure DevOps:
 ### 🔗 Clonado del repositorio
  ```
 bash
-git clone https://dev.azure.com/<organizacion>/<proyecto>/_git/PruebaEj3
+git clone https://dev.azure.com/santiagotricherri/TP3_4%20Tricherri%20Y%20Ojeda/_git/PruebaEj3
 cd PruebaEj3
 
 ```
 
-## ⚙️ Políticas de branch
+## Políticas de branch
 
 Se configuraron las siguientes políticas para la rama `main`:
 
@@ -43,7 +43,7 @@ Se configuraron las siguientes políticas para la rama `main`:
 
 ---
 
-## 🚀 Pipelines
+## Pipelines
 
 El proyecto cuenta con un pipeline de CI/CD básico en Azure Pipelines:
 
@@ -54,12 +54,12 @@ El proyecto cuenta con un pipeline de CI/CD básico en Azure Pipelines:
 - Cada **push** a una rama `feature/*` dispara la ejecución del pipeline.  
 - Los cambios integrados a `main` vuelven a ejecutar el pipeline para validar la build.  
 
-👉 Para correr el pipeline manualmente:  
+Para correr el pipeline manualmente:  
 Ingresar a **Pipelines** → seleccionar el pipeline → botón **Run pipeline**.  
 
 ---
 
-## 🏗️ Estructura del proyecto
+## Estructura del proyecto
 
 - **Decisiones.md** → Documentación de las decisiones tomadas (metodología, justificación, organización del trabajo).  
 - **README.md** → Este archivo con las instrucciones.  
