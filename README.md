@@ -14,9 +14,12 @@ El proyecto fue creado dentro de la organización de Azure DevOps:
 
 [Acceder al proyecto en Azure DevOps] https://dev.azure.com/santiagotricherri/TP3_4%20Tricherri%20Y%20Ojeda
 
+> **Importante:** Para poder clonar el repositorio y visualizar/ejecutar los pipelines en Azure DevOps, es necesario tener acceso a la **organización** y al **proyecto**.  
+> Solo los usuarios agregados como miembros podrán interactuar con el repositorio y los pipelines.
+
 ---
 
-## 📂 Repositorio
+## Repositorio
 Se creó un repositorio Git dentro de Azure DevOps:
 
 - **Nombre del repo:** `PruebaEj3`
@@ -25,7 +28,7 @@ Se creó un repositorio Git dentro de Azure DevOps:
   - `feature/login`
   - `feature/carrito`
 
-### 🔗 Clonado del repositorio
+### Clonado del repositorio
  ```
 bash
 git clone https://dev.azure.com/santiagotricherri/TP3_4%20Tricherri%20Y%20Ojeda/_git/PruebaEj3
