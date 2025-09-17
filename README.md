@@ -1,6 +1,6 @@
 # TP3 – Introducción a Azure DevOps
 
-Este repositorio documenta el Trabajo Práctico 3 de la materia **ISW3**, donde aplicamos los conceptos básicos de **Azure DevOps**: organización, gestión ágil, control de versiones y pipelines.
+Este repositorio documenta el Trabajo Práctico 3 de la materia **ISW3**, donde aplicamos los conceptos básicos de **Azure DevOps**.
 
 ---
 
